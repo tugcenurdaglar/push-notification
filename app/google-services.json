@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819235362539",
+    "project_id": "internetbildirim-568a3",
+    "storage_bucket": "internetbildirim-568a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819235362539:android:d5392788aab49003d390ae",
+        "android_client_info": {
+          "package_name": "com.tugcenurdaglar.fbpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819235362539-ksfgo8l35gjtjingqjjep7cpuqmmne9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmtxWE3cKTLxoCu02fwzHcKAXRttbVj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819235362539-ksfgo8l35gjtjingqjjep7cpuqmmne9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
